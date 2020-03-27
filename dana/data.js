@@ -2,34 +2,27 @@ const main = {
   name: 'Dana Victoria Leonen',
   mail: 'danaleonen@gmail.com',
   img: 'https://randolphpebenito.github.io/dana/user.png',
-  //img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
-  role: ['Financial Advisor'],
+  role: ['Teacher Aide | Financial Advisor | Digital Marketing Associate'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
       name: 'Home',
       iconName: 'logo-firefox',
-      link: 'https://sivanesh-s.github.io'
+      link: 'https://randolphpebenito.github.io/dana/index.html'
     },
     {
       name: 'Github',
       iconName: 'logo-github',
-      link: 'https://github.com/sivanesh-s'
+      link: 'https://github.com/randolphpebenito'
     },
     {
       name: 'Linkedin',
       iconName: 'logo-linkedin',
-      link: 'https://www.linkedin.com/in/sivanesh-shanmugam/'
+      link: 'https://www.linkedin.com/in/dana-victoria-leonen-5402b88b'
     },
-    {
-      name: 'StackOverflow',
-      iconName: 'logo-stackoverflow',
-      link: 'https://stackoverflow.com/users/6940525/sivanesh-s'
-    },
-    {
       name: 'Twitter',
       iconName: 'logo-twitter',
-      link: 'https://twitter.com/sivanesh_fiz'
+      link: 'https://twitter.com/danvicleo'
     },
     {
       name: 'npm',
@@ -39,7 +32,7 @@ const main = {
     {
       name: 'Mail',
       iconName: 'mail-outline',
-      link: `mailto:${'yourmail@gmail.com'}?Subject=Hello%20again`
+      link: `mailto:${'danaleonen@gmail.com'}?Subject=Hello%20again`
     }
   ],
   links: [
