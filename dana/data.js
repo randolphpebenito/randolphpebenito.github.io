@@ -1,7 +1,7 @@
 const main = {
   name: 'Dana Victoria Leonen',
   mail: 'danaleonen@gmail.com',
-  img: 'https://randolphpebenito.github.io/dana/user.png',
+  img: 'https://randolphpebenito.github.io/dana/dana.jpg',
   role: ['Teacher Aide | Financial Advisor | Digital Marketing Associate'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
