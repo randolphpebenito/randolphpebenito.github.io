@@ -18,8 +18,9 @@ const main = {
     {
       name: 'Linkedin',
       iconName: 'logo-linkedin',
-      link: 'https://www.linkedin.com/in/dana-victoria-leonen-5402b88b'
+      link: 'https://www.linkedin.com/in/dana-victoria-leonen-5402b88b/'
     },
+	{
       name: 'Twitter',
       iconName: 'logo-twitter',
       link: 'https://twitter.com/danvicleo'
