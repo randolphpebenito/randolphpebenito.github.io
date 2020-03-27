@@ -1,8 +1,9 @@
 const main = {
-  name: 'Your Name',
-  mail: 'your.mail@gmail.com',
-  img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
-  role: ['Full Stack Developer'],
+  name: 'Dana Victoria Leonen',
+  mail: 'danaleonen@gmail.com',
+  img: 'https://randolphpebenito.github.io/dana/user.png',
+  //img: 'https://organicthemes.com/demo/profile/files/2018/05/profile-pic.jpg',
+  role: ['Financial Advisor'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
